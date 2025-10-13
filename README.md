@@ -1,7 +1,7 @@
 <!-- 🖤 Advanced Dark-Futuristic Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Amirreza%20Kheram&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amirreza%20Kheram&textBg=false&fontColor=black"/>
 </p>
 
 <h3 align="center">⚡ Frontend Developer | React • Next.js • Real-Time Systems ⚡</h3>
@@ -87,14 +87,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
-
----
-
-### 💡 Pro Tips for This README
-
-- ✅ Real-time stats, streaks, and top languages  
-- ✅ Highlighted featured projects for hiring managers  
-- ✅ Tech badges + npm/project links for credibility  
-- ✅ Futuristic dark theme with animated header/footer  
-- ✅ Scalable for adding more projects or certificates  
 
