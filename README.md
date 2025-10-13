@@ -18,7 +18,7 @@
 ### 🧰 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,typescript,tailwind,html,css,js,socketio,vercel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,redux,tailwind,html,css,js,vercel,git,github,gitlab,vscode,bootstrap,sass,postman" />
 </p>
 
 ---
