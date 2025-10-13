@@ -31,7 +31,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=am28z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am28z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut](https://github-readme-stats-git-main-amirrezas-projects-6d62676d.vercel.app/))](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=am28z&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
