@@ -1,5 +1,7 @@
+<!-- 🖤 Advanced Dark-Futuristic Profile README -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Amirreza%20Kheram&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Amirreza%20Kheram&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">⚡ Frontend Developer | React • Next.js • Real-Time Systems ⚡</h3>
@@ -9,9 +11,9 @@
 ### 🧭 About Me  
 
 💼 Currently building a **CRM platform** with real-time communication features using **Next.js**, **Redux Toolkit**, **TailwindCSS**, and **Socket.io**.  
-🧠 Focused on creating **scalable front-end architectures** and **intuitive UI/UX flows**.  
-⚙️ Passionate about **clean code**, **state management**, and **efficient data handling**.  
-🚀 Exploring new patterns in **real-time apps**, **component design**, and **frontend performance**.  
+🧠 Specialized in **scalable front-end architectures**, **performance optimization**, and **real-time apps**.  
+⚙️ Passionate about **clean code, reusable components, and modular design**.  
+🚀 Always exploring **modern DevOps flows, CI/CD, and TypeScript patterns**.
 
 ---
 
@@ -21,12 +23,21 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,redux,tailwind,html,css,js,vercel,git,github,gitlab,vscode,bootstrap,sass,postman" />
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/~am28z" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-Packages-CC3534?logo=npm&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/am28z?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Top_Projects-Showcase-4A90E2?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=am28z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=am28z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am28z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
@@ -38,10 +49,22 @@
 
 ### 🧩 Current Focus  
 
-- Developing **real-time dashboards** & **data-driven UIs**  
-- Writing **clean, maintainable, and modular React code**  
-- Improving **state management** patterns (Redux Toolkit / Zustand)  
-- Enhancing **frontend performance** and **developer experience**  
+- Building **real-time dashboards & CRM platforms**  
+- Implementing **advanced state management** (Redux Toolkit / Zustand)  
+- Optimizing **frontend performance & bundle size**  
+- Creating **modular, maintainable component libraries**  
+- Improving **CI/CD pipelines and testing workflow**
+
+---
+
+### 🚀 Featured Projects  
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **Company CRM** | Next.js, React, Redux, Socket.io, React Query | 🔧 In Progress |
+| **Realtime IoT Dashboard** | React, MQTT, Leaflet | ✅ Completed |
+| **Frontend Component Library** | React, TailwindCSS, TS | ✅ Completed |
+| **Personal Portfolio** | Next.js, React Query, Tailwind | ✅ Completed |
 
 ---
 
@@ -64,4 +87,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
+
+---
+
+### 💡 Pro Tips for This README
+
+- ✅ Real-time stats, streaks, and top languages  
+- ✅ Highlighted featured projects for hiring managers  
+- ✅ Tech badges + npm/project links for credibility  
+- ✅ Futuristic dark theme with animated header/footer  
+- ✅ Scalable for adding more projects or certificates  
 
