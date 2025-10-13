@@ -44,7 +44,6 @@
 - Implementing **advanced state management** (Redux Toolkit / Zustand)  
 - Optimizing **frontend performance & bundle size**  
 - Creating **modular, maintainable component libraries**  
-- Improving **CI/CD pipelines and testing workflow**
 
 ---
 
