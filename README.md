@@ -1,7 +1,7 @@
 <!-- 🖤 Advanced Dark-Futuristic Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amirreza%20Kheram&textBg=false&fontColor=black"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amirreza%20Kheram&textBg=false&fontColor=white"/>
 </p>
 
 <h3 align="center">⚡ Frontend Developer | React • Next.js • Real-Time Systems ⚡</h3>
