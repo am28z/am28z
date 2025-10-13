@@ -23,15 +23,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,redux,tailwind,html,css,js,vercel,git,github,gitlab,vscode,bootstrap,sass,postman" />
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/~am28z" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-Packages-CC3534?logo=npm&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/am28z?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Top_Projects-Showcase-4A90E2?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ### 📊 GitHub Analytics  
