@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Amirreza%20Kheram&textBg=false&fontColor=f5f2eb"/>
 </p>
 
-<h3 align="center"> Frontend Developer | React • Next.js</h3>
+<h3 align="center"> Front-end Developer | React • Next.js</h3>
 
 
 
